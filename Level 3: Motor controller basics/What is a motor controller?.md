@@ -1,0 +1,2 @@
+### 1. What is a motor controller?
+Simply put, a DC motor controller is any device that can manipulate the position, speed, or torque of a DC-powered motor. There are controllers for brushed DC motors, brushless DC motors, as well as universal motors, and they all allow operators to set desired motor behaviour even though their mechanisms for doing so differ.

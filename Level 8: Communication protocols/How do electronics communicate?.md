@@ -1,0 +1,4 @@
+https://do7js0tdxrds1.cloudfront.net/buhrttievx35yjtsagl5h6iakbrw?response-content-disposition=inline%3B+filename%3D%221920px-Shannon_communication_system.svg.png%22%3B&response-content-type=image%2Fpng&Expires=1701171168&Signature=pCHn9q02z9JUSmO9g~JVZagZSFzqAw5fJGYxdpPpHkheqCxQIuEPjR3vfOCgIYragwBslUvaPyeZxmwgNGFTvadXN78pd3Q4ercCK6T-lvUgvofojYQBl3OorRO1F~GC~kbwYF636ln~0-iNKD4Kw2ViEidnnC7jMCburnoahZZklvjtTUmZZZUM3StlCmye3qGdx8~F67Cu7n2sQOfp1TuKXc8gTB7muO~RCXf00bsnkduAULMuGZfGh6JTkd07yCWhFIkLr4aK2gl0XlzijSBF21ZT-8G5M~nSP81gVVMLdJrGdQcGYExNr7Fu2KRzqs6MTCX945jbOu1Ai0iA~A__&Key-Pair-Id=K2Q3HDJ6ZAQGFF
+Caption: A sample diagram as to how the signal is being processed in electronic communications.
+
+-=- Source: [Wanderingsta via Wikimedia Commons](https://en.wikipedia.org/wiki/File:Shannon_communication_system.svg)  | License: [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/)
